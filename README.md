@@ -8,9 +8,9 @@
 
 ## Technology used
 
--Flutter
--Laravel
+- Flutter
+- Laravel
 
 ## Developed by
 
--Aditi Mehra
+- Aditi Mehra
