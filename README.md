@@ -6,11 +6,11 @@
 - Comment on Post
 - Like comments
 
-#Technology used
+## Technology used
 
 -Flutter
 -Laravel
 
-#Developed by
+## Developed by
 
 -Aditi Mehra
