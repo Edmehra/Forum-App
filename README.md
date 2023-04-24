@@ -5,3 +5,12 @@
 - Discussion
 - Comment on Post
 - Like comments
+
+#Technology used
+
+-Flutter
+-Laravel
+
+#Developed by
+
+-Aditi Mehra
