@@ -11,6 +11,10 @@
 - Flutter
 - Laravel
 
+## Mentor
+
+- Mr. Upendra Singh
+
 ## Developed by
 
 - Aditi Mehra
